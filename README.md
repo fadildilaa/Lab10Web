@@ -7,7 +7,7 @@ PHP OOP
 
 ### 1. Tampilan screenshoot mobil.php
 ![gambar 1](screenshoot/s1.png)
-![gambar 2](screenhoot/s2.png)
+![gambar 2](screenshoot/s2.png)
 
 ### 2. Tampilan screenshoot form_input.php
 ![gambar 3](screenshoot/s3.png)
