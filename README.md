@@ -6,7 +6,7 @@ PHP OOP
 ##### Kelas : TI.19.F1
 
 ### 1. Tampilan screenshoot mobil.php
-![gambar 1](screeshoot/s1.png)
+![gambar 1](screenshoot/s1.png)
 ![gambar 2](screenhoot/s2.png)
 
 ### 2. Tampilan screenshoot form_input.php
